@@ -144,6 +144,7 @@ http://51.79.82.208:16009
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJGnL5mYC07O5hcwxUgaEU=A65T/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsSKwJZQGfPw_hF9Z_PG7oY=5tic/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
@@ -158,6 +159,7 @@ https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiF
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38Fm-jXjM6EaIqWzHHZhDRBhQ=yWR3/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRgKus8u_25abfI8jUo7bQJw=nnY7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
