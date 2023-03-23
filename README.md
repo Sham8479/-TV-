@@ -145,11 +145,13 @@ http://51.79.82.208:16009
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.ctv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
+https://speedtrademarket.com/live/channel/warna.m3u8
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCICtpFXRBP5wdfshc1MJKo
@@ -160,10 +162,11 @@ https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvssjl1Y-Bc=8E7K/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvssjl1Y-Bc=8E7K/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-
-
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://w.nasvpn.xyz:8080/puasa/puasa1./172
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest?cb=20220623141711",Astro Sensasi HD
