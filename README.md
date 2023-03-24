@@ -145,8 +145,6 @@ http://51.79.82.208:16009
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key
